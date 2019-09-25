@@ -9,5 +9,4 @@ class Bookmark {
   toggleRead() {
     this.read = !this.read;
   }
-
 }
